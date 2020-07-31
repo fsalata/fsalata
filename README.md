@@ -4,4 +4,4 @@
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=fsalata&count_private=true&show_icons=true&theme=cobalt)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fsalata)](https://github.com/fsalata/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fsalata&hide=makefile,java)](https://github.com/fsalata/github-readme-stats)
